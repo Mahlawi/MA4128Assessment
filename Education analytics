@@ -1,0 +1,44 @@
+http://radar.oreilly.com/2011/07/education-data-analytics-learning.html
+
+How data and analytics can improve education
+
+George Siemens on the applications and challenges of education data.
+
+by  Audrey Watters |   @audreywatters |  +Audrey Watters | July 25, 2011 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+
+Schools have long amassed data: tracking grades, attendance, textbook purchases, test scores, cafeteria meals, and the like. But little has actually been done with this information — whether due to privacy issues or technical capacities — to enhance students’ learning. 
+
+With the adoption of technology in more schools and with a push for more open government data, there are clearly a lot of opportunities for better data gathering and analysis in education. But what will that look like? It’s a politically charged question, no doubt, as some states are turning to things like standardized test score data in order to gauge teacher effectiveness and, in turn, retention and promotion. 
+
+I asked education theorist George Siemens, from the Technology Enhanced Knowledge Research Institute at Athabasca University, about the possibilities and challenges for data, teaching, and learning. 
+
+Our interview follows.
+
+What kinds of data have schools traditionally tracked?
+
+George Siemens: Schools and universities have long tracked a broad range of learner data — often drawn from applications (universities) or enrollment forms (schools). This data includes any combination of: location, previous learning activities, health concerns (physical and emotional/mental), attendance, grades, socio-economic data (parental income), parental status, and so on. Most universities will store and aggregate this data under the umbrella of institutional statistics. 
+
+Privacy laws differ from country to country, but generally will prohibit academics from accessing data that is not relevant to a particular class, course, or program. Unfortunately, most schools and universities do very little with this wealth of data, other than possibly producing an annual institutional profile report. Even a simple analysis of existing institutional data could raise the profile of potential at-risk students or reveal attendance or assignment submission patterns that indicate the need for additional support.
+
+What new types of educational data can now be captured and mined?
+
+George Siemens: In terms of learning analytics or educational data-mining, the growing externalization of learning activity (i.e. capturing how learners interact with content and the discourse they have around learning materials as well as the social networks they form in the process) is driven by the increased attention to online learning. For example, a learning management system like Moodle or Desire2Learn captures a significant amount of data, including time spent on a resource, frequency of posting, number of logins, etc. This data is fairly similar to what Google Analytics or Piwik collects regarding website traffic. A new generation of tools, such as SNAPP, uses this data to analyze social networks, degrees of connectivity, and peripheral learners. Discourse analysis tools, such as those being developed at the Knowledge Media Institute at the Open University, UK, are also effective at evaluating the qualitative attributes of discourse and discussions and rate each learner’s contributions by depth and substance in relation to the topic of discussion.
+
+An area of data gathering that universities and schools are largely overlooking relates to the distributed social interactions learners engage in on a daily basis through Facebook, blogs, Twitter, and similar tools. Of course, privacy issues are significant here. However, as we are researching at Athabasca University, social networks can provide valuable insight into how connected learners are to each other and to the university. Potential models are already being developed on the web that would translate well to school settings. For example, Klout measures influence within a network and Radian6 tracks discussions in distributed networks. 
